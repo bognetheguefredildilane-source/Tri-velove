@@ -9,7 +9,7 @@ const marques: Marque[] = [
   { nom: "Toyota", logo: "/toyot.png" },
   { nom: "Nissan", logo: "/nissan.jpg" },
   { nom: "Honda", logo: "/audi.jpg" },
-  { nom: "Suzuki", logo: "/suzuki.jpg" },
+  { nom: "Suzuki", logo: "/suzu.png" },
   { nom: "BMW ",    logo: "/bmw.jpg"},
   { nom: "Hyundai", logo: "/hyundai.jpg" }, 
   { nom: "Mercedes", logo: "/mercedes.jpg" },

@@ -135,7 +135,7 @@ export const carPhotos = [
     title: "Toyota Hilux Double Cabine 1997",
     slug: "toyota-hilux-double-cab-1997",
     category: "Pick-up",
-    src: "/image/Toyota Hilux Double Cab AU-spec '1997–2001.jpeg",
+    src: "/image/hulix.jpeg",
     alt: "Toyota Hilux double cabine vert sapin, modèle AU-spec produit entre 1997 et 2001",
     price: "4 500 000 XAF",
     details: {
