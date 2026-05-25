@@ -54,7 +54,7 @@ const page = () => {
                                 </div>
                                 <div className="flex items-center justify-between gap-3">
                                     <Link
-                                        href={`/vehicules/${carPhoto.slug}`}
+                                        href={`/vehicules/${carPhoto.title}`}
                                         className="bg-black text-white px-2 py-2 mt-3 rounded-full sm:text-sm md:text-md hover:bg-gray-800 transition cursor-pointer"
                                     >
                                         view details
